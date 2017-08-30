@@ -1,0 +1,1 @@
+Upload your Shotwell photo library to Flickr, headlessly. Runs for a bit and then stops, because it's designed to be run nightly out of cron. This is not a friendly tool; it's for me. If people really like it, maybe I'll trick it up into something cooler.

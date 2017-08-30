@@ -1,0 +1,5 @@
+# create an app at flickr, and get its key and secret
+# at https://www.flickr.com/services/apps
+# save this as flickr_config.py
+KEY = "00000000000000000000000000000000"
+SECRET = "aaaaaaaaaaaaaaaa"
